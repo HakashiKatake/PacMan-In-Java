@@ -4,7 +4,7 @@ This is a simple implementation of the classic arcade game Pac-Man in Java.
 
 
 ![image](https://github.com/user-attachments/assets/ccefdab9-bb9e-4974-9765-b840da862b37)
-<img width="597" alt="Screenshot 2025-02-11 at 11 21 52 PM" src="https://github.com/user-attachments/assets/66a9f919-7409-4527-8ab8-c2862463d635" />
+<img alt="Screenshot 2025-02-11 at 11 21 52 PM" src="https://github.com/user-attachments/assets/66a9f919-7409-4527-8ab8-c2862463d635" />
 
 
 
