@@ -10,7 +10,7 @@ This is a simple implementation of the classic arcade game Pac-Man in Java.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/pacman-java.git`
+1. Clone the repository: `git clone https://github.com/HakashiKatake/PacMan-In-Java.git`
 2. Change into the cloned directory: `cd pacman-java`
 3. Compile the source code: `javac src/*.java`
 4. Run the game: `java -cp src Pacman`
