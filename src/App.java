@@ -6,11 +6,10 @@ public class App {
         int columnCount = 19;
         int tileSize = 32;
         int boardWidth = columnCount * tileSize;
-        int boardHeight = rowCount * tileSize;  
+        int boardHeight = rowCount * tileSize;
 
         JFrame frame = new JFrame("Pac Man");
-
-        frame.setVisible(true);
+        // frame.setVisible(true);
         frame.setSize(boardWidth, boardHeight);
         frame.setLocationRelativeTo(null);
         frame.setResizable(false);
@@ -20,9 +19,7 @@ public class App {
         frame.add(pacmanGame);
         frame.pack();
         pacmanGame.requestFocus();
-        frame.setVisible(true); 
-
-
+        frame.setVisible(true);
 
     }
 }
